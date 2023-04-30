@@ -42,7 +42,7 @@ Basic funda is creating 4 images for a single image
   06 08
   14 16
   ```
-* Basically as the final result all the four images are resized to `200 X 200` size and then they are combined and sent to API response.
+* Basically as the final result all the four images are resized to half of original image size and then they are combined and sent to API response.
   
 
 ### API Struture
