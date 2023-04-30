@@ -47,7 +47,7 @@ Basic funda is creating 4 images for a single image
 
 ### API Struture
 
-## Get list of Things
+## Convolute an Image
 
 ### Request
 
@@ -58,8 +58,9 @@ Basic funda is creating 4 images for a single image
     --form 'image=@"/C:/Users/HP/Pictures/myImage.PNG"'
 
 ### Request Image
-![Sample.jpeg](..%2F..%2FSample.jpeg)
+![Sample](https://user-images.githubusercontent.com/42883382/235340203-1f423e37-b12e-4a56-be02-6c994af7db2a.jpeg)
+
 ### Response Image
-![response.jpeg](..%2F..%2Fresponse.jpeg)
+![response](https://user-images.githubusercontent.com/42883382/235340208-9a8715d0-77c2-4199-90f2-7df30b48c34b.jpeg)
 
 
